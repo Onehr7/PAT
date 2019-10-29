@@ -11,7 +11,7 @@ import java.util.Scanner;
  * *    3.算出从小到大的距离，另一个距离为总距离减此距离，比较两种距离的大小
  */
 public class I035 {
-    public static void main(String[] args)throws IOException{
+    public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int i;

@@ -4,10 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/src/I039.java" line="14" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab950fa4-2fd0-4272-99bb-e6e873fadcb2" name="Default" comment="just coding">
-      <change afterPath="$PROJECT_DIR$/src/I052.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I056.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I062.java" afterDir="false" />
+    <list default="true" id="ab950fa4-2fd0-4272-99bb-e6e873fadcb2" name="Default" comment="喝下这杯毒咖啡">
+      <change afterPath="$PROJECT_DIR$/src/I058.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -40,13 +38,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="270">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/I062.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -71,8 +69,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/I052.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
+            <state relative-caret-position="1530">
               <caret line="66" selection-start-line="66" selection-end-line="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/I058.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#398#409#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -109,9 +120,10 @@
         <option value="$PROJECT_DIR$/src/I043.java" />
         <option value="$PROJECT_DIR$/src/I045.java" />
         <option value="$PROJECT_DIR$/src/I052.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/I056.java" />
         <option value="$PROJECT_DIR$/src/I062.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/I058.java" />
       </list>
     </option>
   </component>
@@ -165,14 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.I056">
-    <configuration name="I045" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I045" />
-      <module name="PAT" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.I058">
     <configuration name="I052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="I052" />
       <module name="PAT" />
@@ -182,6 +187,13 @@
     </configuration>
     <configuration name="I056" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="I056" />
+      <module name="PAT" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="I058" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I058" />
       <module name="PAT" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -206,18 +218,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.I045" />
       <item itemvalue="Application.I052" />
       <item itemvalue="Application.I062" />
       <item itemvalue="Application.I056" />
+      <item itemvalue="Application.I058" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.I056" />
+        <item itemvalue="Application.I058" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.I056" />
         <item itemvalue="Application.I062" />
         <item itemvalue="Application.I052" />
-        <item itemvalue="Application.I045" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +254,7 @@
       <workItem from="1572266628842" duration="2030000" />
       <workItem from="1572307560733" duration="6575000" />
       <workItem from="1572327290340" duration="19687000" />
-      <workItem from="1572394514161" duration="13821000" />
+      <workItem from="1572394514161" duration="19881000" />
     </task>
     <task id="LOCAL-00001" summary="10/29">
       <created>1572314453942</created>
@@ -272,11 +284,18 @@
       <option name="project" value="LOCAL" />
       <updated>1572352294169</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="喝下这杯毒咖啡">
+      <created>1572416189377</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572416189377</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100397000" />
+    <option name="totallyTimeSpent" value="106457000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="916" extended-state="6" />
@@ -291,7 +310,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32939634" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2913386" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.7427101" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -353,7 +372,8 @@
     <MESSAGE value="10/29" />
     <MESSAGE value="1039" />
     <MESSAGE value="just coding" />
-    <option name="LAST_COMMIT_MESSAGE" value="just coding" />
+    <MESSAGE value="喝下这杯毒咖啡" />
+    <option name="LAST_COMMIT_MESSAGE" value="喝下这杯毒咖啡" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://E:/jdk/src.zip!/java/lang/Character.java">
@@ -470,20 +490,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/I052.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/I056.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -498,6 +504,31 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#383#394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/I052.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/I058.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#398#409#0" expanded="true" />
           </folding>
         </state>
       </provider>
